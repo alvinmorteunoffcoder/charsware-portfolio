@@ -219,7 +219,8 @@ export function WorkDetailPage() {
                 { title: 'Corporate Reel', desc: 'Professional and clean presentation.', file: 'Video5.mp4' },
                 { title: 'Corporate Reel', desc: 'Professional and clean presentation.', file: 'Video6.mp4' },
                 { title: 'Corporate Reel', desc: 'Professional and clean presentation.', file: 'Video7.mp4' },
-                { title: 'Corporate Reel', desc: 'Professional and clean presentation.', file: 'Video8.mp4' }
+                { title: 'Corporate Reel', desc: 'Professional and clean presentation.', file: 'Video8.mp4' },
+                { title: 'Corporate Reel', desc: 'Professional and clean presentation.', file: 'Sample.mp4' }
               ].map((video, idx) => (
                 <div key={idx} className="flex flex-col gap-4">
                   <motion.div
@@ -260,11 +261,11 @@ export function WorkDetailPage() {
             </div>
             <div className="columns-1 sm:columns-2 lg:columns-3 gap-8 space-y-8">
               {currentGallery?.map((item, idx) => (
-                <a 
-                  key={idx} 
-                  href={item.img} 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
+                <a
+                  key={idx}
+                  href={item.img}
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="block break-inside-avoid mb-8"
                 >
                   <motion.div
@@ -295,10 +296,10 @@ export function WorkDetailPage() {
               <FileText className="text-zinc-500" size={20} />
               <h2 className="text-2xl font-light text-white">Campaign Details</h2>
             </div>
-            
+
             <div className="mb-10 max-w-2xl">
               <p className="text-zinc-400 text-lg font-light leading-relaxed">
-                Professional Meta Ad Campaign Developer & Digital Marketer. <br/>
+                Professional Meta Ad Campaign Developer & Digital Marketer. <br />
                 Focused on scaling growth, maximizing ROI, and delivering data-driven results.
               </p>
             </div>
