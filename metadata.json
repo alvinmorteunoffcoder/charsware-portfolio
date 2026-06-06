@@ -1,0 +1,8 @@
+{
+  "name": "Charsware Portfolio",
+  "description": "Portfolio website for Charsware featuring works, tools, and contact sections with a black and grey glassmorphism design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
