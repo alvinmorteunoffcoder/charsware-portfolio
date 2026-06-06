@@ -40,7 +40,7 @@ export function Contact() {
 
                 {/* WhatsApp Action */}
                 <a 
-                  href="https://wa.me/9940261107"
+                  href="https://wa.me/+919940261107"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group flex items-center justify-center gap-3 bg-white text-black px-6 py-3 rounded-full text-xs font-bold tracking-widest hover:bg-zinc-200 transition-all"
