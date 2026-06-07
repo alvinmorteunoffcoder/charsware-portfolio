@@ -115,10 +115,10 @@ export function WorkDetailPage() {
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 items-stretch mb-12">
               {/* Instagram Reel 1 */}
               <motion.div variants={floatingItem} className="w-full h-full bg-zinc-900/30 rounded-2xl border border-zinc-800/50 shadow-2xl overflow-hidden hover:border-white/10 transition-colors backdrop-blur-md transform-gpu flex flex-col group relative" style={{ transformStyle: 'preserve-3d' }}>
-                <a href="https://www.instagram.com/reel/DOSrJCzkm7l/" target="_blank" rel="noopener noreferrer" className="absolute inset-0 z-20 block cursor-pointer"><span className="sr-only">View Instagram Reel</span></a>
+                <a href="https://www.instagram.com/reel/DFUsUg7TumB/" target="_blank" rel="noopener noreferrer" className="absolute inset-0 z-20 block cursor-pointer"><span className="sr-only">View Instagram Reel</span></a>
                 <div className="absolute inset-0 bg-gradient-to-t from-white/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-700 pointer-events-none" />
                 <div className="relative w-full aspect-[9/16] bg-black overflow-hidden flex-shrink-0 flex items-center justify-center pointer-events-none">
-                  <iframe className="w-full h-full" src="https://www.instagram.com/reel/DOSrJCzkm7l/embed/?hidecaption=1" title="Instagram Reel 1" frameBorder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+                  <iframe className="w-full h-full" src="https://www.instagram.com/reel/DFUsUg7TumB/embed/?hidecaption=1" title="Instagram Reel 1" frameBorder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                 </div>
                 <div className="p-6 flex-grow flex flex-col justify-center pointer-events-none">
                   <h3 className="text-xl text-white font-medium mb-2">Instagram Reel 1</h3>
@@ -128,10 +128,10 @@ export function WorkDetailPage() {
 
               {/* Instagram Reel 2 */}
               <motion.div variants={floatingItem} className="w-full h-full bg-zinc-900/30 rounded-2xl border border-zinc-800/50 shadow-2xl overflow-hidden hover:border-white/10 transition-colors backdrop-blur-md transform-gpu flex flex-col group relative" style={{ transformStyle: 'preserve-3d' }}>
-                <a href="https://www.instagram.com/reel/DOV-j7SktSo/" target="_blank" rel="noopener noreferrer" className="absolute inset-0 z-20 block cursor-pointer"><span className="sr-only">View Instagram Reel</span></a>
+                <a href="https://www.instagram.com/reel/DFC3AQuzIvv/" target="_blank" rel="noopener noreferrer" className="absolute inset-0 z-20 block cursor-pointer"><span className="sr-only">View Instagram Reel</span></a>
                 <div className="absolute inset-0 bg-gradient-to-t from-white/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-700 pointer-events-none" />
                 <div className="relative w-full aspect-[9/16] bg-black overflow-hidden flex-shrink-0 flex items-center justify-center pointer-events-none">
-                  <iframe className="w-full h-full" src="https://www.instagram.com/reel/DOV-j7SktSo/embed/?hidecaption=1" title="Instagram Reel 2" frameBorder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+                  <iframe className="w-full h-full" src="https://www.instagram.com/reel/DFC3AQuzIvv/embed/?hidecaption=1" title="Instagram Reel 2" frameBorder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                 </div>
                 <div className="p-6 flex-grow flex flex-col justify-center pointer-events-none">
                   <h3 className="text-xl text-white font-medium mb-2">Instagram Reel 2</h3>
@@ -141,10 +141,10 @@ export function WorkDetailPage() {
 
               {/* Instagram Reel 3 */}
               <motion.div variants={floatingItem} className="w-full h-full bg-zinc-900/30 rounded-2xl border border-zinc-800/50 shadow-2xl overflow-hidden hover:border-white/10 transition-colors backdrop-blur-md transform-gpu flex flex-col group relative" style={{ transformStyle: 'preserve-3d' }}>
-                <a href="https://www.instagram.com/reel/DVloAiLiZIF/" target="_blank" rel="noopener noreferrer" className="absolute inset-0 z-20 block cursor-pointer"><span className="sr-only">View Instagram Reel</span></a>
+                <a href="https://www.instagram.com/reel/DFAX9XZsm-A/" target="_blank" rel="noopener noreferrer" className="absolute inset-0 z-20 block cursor-pointer"><span className="sr-only">View Instagram Reel</span></a>
                 <div className="absolute inset-0 bg-gradient-to-t from-white/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-700 pointer-events-none" />
                 <div className="relative w-full aspect-[9/16] bg-black overflow-hidden flex-shrink-0 flex items-center justify-center pointer-events-none">
-                  <iframe className="w-full h-full" src="https://www.instagram.com/reel/DVloAiLiZIF/embed/?hidecaption=1" title="Instagram Reel 3" frameBorder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+                  <iframe className="w-full h-full" src="https://www.instagram.com/reel/DFAX9XZsm-A/embed/?hidecaption=1" title="Instagram Reel 3" frameBorder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                 </div>
                 <div className="p-6 flex-grow flex flex-col justify-center pointer-events-none">
                   <h3 className="text-xl text-white font-medium mb-2">Instagram Reel 3</h3>
